@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+#nav-actor {
+	background-color: grey;
+	color: white;
+}
+#nav-quote{
+	background-color: grey;
+	color: white;
+}
+#nav-quote. hover{
+	background-color: aquamarine;
+}
